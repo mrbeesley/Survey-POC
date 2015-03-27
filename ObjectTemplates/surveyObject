@@ -1,0 +1,18 @@
+{
+	surveyId:"1",
+	projectId:"smg_test",
+	source:"CSI",
+	questions : [ 1 , 2 , 3 , 4 , 5 , 6 ],
+	surveyIntro : [ 
+		{ 
+			entryType: "Coupon", 
+			surveyCodeMap : [
+				{ length: 4, type: "Unit", question: 10 }
+				{ length: 10, type: "Date", question: 11 }
+			],
+
+		}
+	],
+	paramsCodeMap: [],
+
+}

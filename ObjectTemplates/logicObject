@@ -1,0 +1,8 @@
+{
+	logicId: 1,
+	surveyId: 1,
+	questionId: 4,
+	logic: [
+		{ logicType:"STANDARD", questionId:1, logicValue: "5" }
+	]
+}
