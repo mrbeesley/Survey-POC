@@ -1,0 +1,12 @@
+extends layout
+
+block content
+  h1= title
+  h2 Available Methods
+  
+  ul
+    li GET /survey/:surveyId
+    li GET /survey/:surveyId/question/:questionId
+    li POST /survey/:surveyId/question/:questionId {Answer}
+    
+  
