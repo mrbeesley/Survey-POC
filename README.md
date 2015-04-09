@@ -8,9 +8,11 @@ Project Goals:
 # Running the Code
 First start Redis and MongoDB on the default ports, in separate terminals.
 
-```$ mongod
+```
+    $ mongod
 
-```$ redis-server
+    $ redis-server
+```
 
 Launch SurveyEngine, then WebSurvey in separate terminals using ` npm start `.
 
