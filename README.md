@@ -13,3 +13,5 @@ First start Redis and MongoDB on the default ports, in separate terminals.
 ```$ redis-server
 
 Launch SurveyEngine, then WebSurvey in separate terminals using ` npm start `.
+
+Seed your database/cache with: `GET http://localhost:2020/seedSurveys`.
