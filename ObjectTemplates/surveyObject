@@ -1,9 +1,0 @@
-{
-	surveyId:"1",
-    // [eric] probably don't need to send project id back to client, since surveyId is more granular
-	projectId:"smg_test",
-	source:"CSI", // Source will negotiate the type of response that can be sent
-	questions : [ 1 , 2 , 3 , 4 , 5 , 6 ],
-	language: "en-us",
-	verbosity: "Content" // Markup ShortContent
-}
