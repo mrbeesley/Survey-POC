@@ -1,0 +1,29 @@
+{
+	"questionId": "1",
+	"scoredValue": 5,
+	"normativeTag": "OSAT",
+	"questionType": "SCALED",
+	"text": "Please rate your overall satisfaction with your visit.",
+	"responseOptions": [
+		{
+			"responseValue":1,
+			"text":"Highly Dissatisfied",
+		},
+		{
+			"responseValue":2,
+			"text":"Dissatisfied"
+		},
+		{
+			"responseValue":3,
+			"text":"Neither Satisfied or Dissatisfied"
+		},
+		{
+			"responseValue":4,
+			"text":"Satisfied"
+		},
+		{
+			"responseValue": 5,
+			"text": "Highly Satisfied"
+		},
+	]
+}

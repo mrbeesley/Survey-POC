@@ -1,0 +1,111 @@
+{
+	"questionId": "1",
+	"scoredValue": 5,
+	"normativeTag": "OSAT",
+	"questionType": "SCALED",
+	"defaultText": "Please rate your overall satisfaction with your visit.",
+	"allText": [
+		{
+			"language": "en-us", 
+			"text": "Please rate your overall satsifcation with your visit."
+		},
+		{
+			"language": "es-us", 
+			"text": "Califique su satsifcation general con su visita."
+		},
+		{
+			"language":"fr-ca", 
+			"text": "Se il vous plaît noter votre satsifcation globale de votre visite."}
+	],
+	"responseOptions": [
+		{
+			"responseValue" :1,
+			"defalutText" :"Highly Dissatisfied",
+			"allText" :[
+				{
+					"language": "en-us", 
+					"text": "Highly Dissatisfied"},
+				{
+					"language": "es-us", 
+					"text": "Muy Insatisfecho"
+				},
+				{
+					"language": "fr-ca", 
+					"text": "très insatisfait"
+				}
+			]
+		},
+		{
+			"responseValue": 2,
+			"defalutText": "Dissatisfied",
+			"allText": [
+				{
+					"language": "en-us", 
+					"text": "Dissatisfied"
+				},
+				{
+					"language": "es-us", 
+					"text": "Insatisfecho"
+				},
+				{
+					"language": "fr-ca", 
+					"text": "insatisfait"
+				}
+			]
+		},
+		{
+			"responseValue": 3,
+			"defalutText": "Neither Satisfied or Dissatisfied",
+			"allText": [
+				{
+					"language": "en-us", 
+					"text": "Neither Satisfied or Dissatisfied"
+				},
+				{
+					"language": "es-us", 
+					"text" :"Ni satisfecho o insatisfecho"
+				},
+				{
+					"language": "fr-ca", 
+					"text": "Ni satisfait ou insatisfait"
+				}
+			]
+		},
+		{
+			"responseValue": 4,
+			"defalutText": "Satisfied",
+			"allText": [
+				{
+					"language": "en-us", 
+					"text": "Satisfied"
+				},
+				{
+					"language": "es-us", 
+					"text": "satisfecho"
+				},
+				{
+					"language": "fr-ca", 
+					"text": "satisfait"
+				}
+			]
+		},
+		{
+			"responseValue": 5,
+			"defalutText": "Highly Satisfied",
+			"allText": [
+				{
+					"language": "en-us", 
+					"text": "Highly Satisfied"
+				},
+				{
+					"language": "es-us", 
+					"text": "muy satisfecho"
+				},
+				{
+					"language": "fr-ca", 
+					"text": "très satisfait"
+				}
+			]
+		}
+	]
+}
